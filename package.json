@@ -1,8 +1,12 @@
 {
   "name": "@monabbous/object-digger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "tslib": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monabbous/object-digger.git"
   },
   "keywords": ["parse", "handlebar mustach", "object", "json"]
 }
