@@ -1,0 +1,8 @@
+{
+  "name": "@monabbous/object-digger",
+  "version": "0.0.2",
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "keywords": ["parse", "handlebar mustach", "object", "json"]
+}
